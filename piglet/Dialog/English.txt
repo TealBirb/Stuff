@@ -1,0 +1,17 @@
+teal_piglet= piglet
+teal_piglet_piglet= piglet
+
+teal_piglet_wall=
+[Madeline left sad]
+I thought there would be a {#F94A4A}berry{#}.
+[THEO right normal pop]
+There is, just dash into the wall.
+[Madeline left normal]
+Thanks {+THEO}!!!
+[Madeline left distracted]
+Where even are you?
+[THEO right thinking]
+{>> 16}I did too many ultras and{>>}{1}{n}i think popped into {~}the quantum level{/~}.
+
+care=
+[THEO left serious]{anchor bottom}Be careful, I sense an illusion.
