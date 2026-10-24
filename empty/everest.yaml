@@ -1,0 +1,19 @@
+- Name: empty
+  Version: 0.0.1
+  Dependencies:
+    - Name: ChroniaHelper
+      Version: 1.53.12
+    - Name: CommunalHelper
+      Version: 1.25.5
+    - Name: DJMapHelper
+      Version: 1.13.4
+    - Name: Everest
+      Version: 1.6485.0
+    - Name: ExtendedVariantMode
+      Version: 0.50.5
+    - Name: MaxHelpingHand
+      Version: 1.40.9
+    - Name: VivHelper
+      Version: 1.14.10
+    - Name: XaphanHelper
+      Version: 1.0.79
